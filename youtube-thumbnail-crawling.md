@@ -2,12 +2,14 @@
 
 
 To crawl thubnails on YouTube, we use a interesting website that  YouTube made for us for quick request for thumnail image.
-```https://i.ytimg.com/vi/{YouTube_video_id}/maxresdefault.jpg```
+ ```
+ https://i.ytimg.com/vi/{YouTube_video_id}/maxresdefault.jpg
+ ```
 
 Firstly, we convert YouTube url to id by following code, and use "get" methed request the image.
 
 Then, we stored the image in folder you like
-using```imagedown(YouTube_video_id, 'folder_name')```
+using ```imagedown(YouTube_video_id, 'folder_name')```
 
 If there's no such folder, then it will auto generate a new one.
 
