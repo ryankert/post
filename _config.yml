@@ -14,4 +14,4 @@ include:
   - PULL_REQUEST_TEMPLATE.md
   - google-font-offline.md
 
-theme: jekyll-theme-slate
+theme: jekyll-theme-tactile
