@@ -13,3 +13,5 @@ include:
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
   - google-font-offline.md
+
+theme: jekyll-theme-minimal
